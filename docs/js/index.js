@@ -6,6 +6,7 @@ const images = {
     ads_integration: 'ads_integration.gif',
     build: 'build.gif',
     share_experience: 'share_experience.gif',
+    google_analytics_integration: 'google_analytics_integration.png',
     bot: 'bot.png',
 };
 

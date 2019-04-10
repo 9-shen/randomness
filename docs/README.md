@@ -13,5 +13,8 @@
 ### Continued share experience
 ![Continued share experience](img/demo/share_experience.gif)
 
+### Google Analytics integration
+![Google Analytics integration](img/demo/google_analytics_integration.png)
+
 ### Game bot
 ![Game bot](img/demo/bot.png)
